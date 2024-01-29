@@ -8,6 +8,13 @@
 <img src="scrennshot/lanpair.jpg" alt="Screenshot 3" height="380px" width="20%">
 <img src="scrennshot/translatesite.jpg" alt="Screenshot 4" height="380px" width="20%">
 
+
+## Technologies ⚛️
+ - `React Native`
+ - `Firebase`
+ - `Typescript`
+ - `expo`
+
  ## Usage
 
 1. Run the app: `npm start`
